@@ -156,6 +156,6 @@ MIT. See `LICENSE`.
 
 ## Background
 
-Built by Ifeoma Nwosu, a frontend engineer with a background in accessibility engineering and design systems. Also the author of two [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/ifeoma-nwosu), a frequent conference speaker, and technical insturctor at Code First Girls where she helps Junior engineers upsill to Mid-level engineers.
+Built by Ifeoma Nwosu, a frontend engineer with a background in accessibility engineering and design systems. Also the author of two [LinkedIn Learning courses](https://www.linkedin.com/learning/instructors/ifeoma-nwosu), a frequent conference speaker, and technical insturctor at Code First Girls where she helps Junior engineers upskill to Mid-level engineers.
 
-If you use this skill and find it useful, I'd love to hear about it, open an issue or reach out on LinkedIn.
+If you use this skill and find it useful, I'd love to hear about it, open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/ifeoma-nwosu/).
